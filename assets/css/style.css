@@ -70,14 +70,14 @@ nav a {
     background-position: center;
 }
 
-/*content styling*/
-.content {
+/*main content styling*/
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.content div {
+main article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -86,11 +86,11 @@ nav a {
     color: #ffffff;
 }
 
-.content img {
+main img{
     max-height: 200px;
 }
 
-.content h2 {
+main h2{
     margin-bottom: 20px;
     font-size: 36px;
 }
